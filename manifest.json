@@ -1,6 +1,6 @@
 {
-  "name": "WTK Valheim",
-  "version_number": "1.0.0",
+  "name": "WTKValheim",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/voziv/wtk-valheim",
   "description": "A valheim modpack for WTK's cozy world",
   "dependencies": [
@@ -12,6 +12,7 @@
     "BasilPanda-NoStamCosts-0.1.2",
     "castix-FloatingItems-1.0.0",
     "denikson-BepInExPack_Valheim-5.4.2202",
+    "JereKuusela-Server_devcommands-1.88.0",
     "Kits_Bitz-UnderTheRadar-3.1.6",
     "Kojeak-WeightChangeMod-0.0.2",
     "OdinPlus-TeleportEverything-2.7.0",

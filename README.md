@@ -4,6 +4,10 @@ A modpack for the WTK playthrough on our cozy world
 
 ## Changelog
 
+### v1.0.1
+
+- Added JereKuusela-Server_devcommands-1.88.0
+
 ### v1.0.0
 
 - Added Advize-PlantEverything-1.18.2
