@@ -12,6 +12,10 @@ setworldmodifier raids none
 
 ## Changelog
 
+### 1.1.0
+
+- Added EardwulfDoesMods-ComfyMassFarming-1.5.4
+
 ### 1.0.4
 
 - Added ValheimModding-Jotunn-2.23.1 to force a newer version to fix MyDirtyHoe
