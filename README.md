@@ -12,6 +12,10 @@ setworldmodifier raids none
 
 ## Changelog
 
+### 1.0.3
+
+- Added MagicMike-MyDirtyHoe-1.2.4
+
 ### 1.0.2
 
 - Added Stollie-DeathTweaks-0.9.3
