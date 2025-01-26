@@ -1,6 +1,6 @@
 {
   "name": "WTKValheim",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/voziv/wtk-valheim",
   "description": "A valheim modpack for WTK's cozy world",
   "dependencies": [
@@ -15,6 +15,7 @@
     "JereKuusela-Server_devcommands-1.88.0",
     "Kits_Bitz-UnderTheRadar-3.1.6",
     "Kojeak-WeightChangeMod-0.0.2",
+    "ValheimModding-Jotunn-2.23.1",
     "MagicMike-MyDirtyHoe-1.2.4",
     "OdinPlus-TeleportEverything-2.7.0",
     "RandyKnapp-EquipmentAndQuickSlots-2.1.14",

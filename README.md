@@ -12,6 +12,10 @@ setworldmodifier raids none
 
 ## Changelog
 
+### 1.0.4
+
+- Added ValheimModding-Jotunn-2.23.1 to force a newer version to fix MyDirtyHoe
+
 ### 1.0.3
 
 - Added MagicMike-MyDirtyHoe-1.2.4
