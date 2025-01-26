@@ -2,13 +2,27 @@
 
 A modpack for the WTK playthrough on our cozy world
 
+## Server Settings
+```
+setworldmodifier deathpenalty casual
+setworldmodifier resources most
+setworldmodifier portals casual
+setworldmodifier raids none
+```
+
 ## Changelog
 
-### v1.0.1
+### 1.0.2
+
+- Added Stollie-DeathTweaks-0.9.3
+- Added TastyChickenLegs-SuperConfigurablePickupRadius-1.0.9
+- Moved server config to a different folder. Should help with keybinds getting reset on modpack updates
+
+### 1.0.1
 
 - Added JereKuusela-Server_devcommands-1.88.0
 
-### v1.0.0
+### 1.0.0
 
 - Added Advize-PlantEverything-1.18.2
 - Added Azumatt-AzuAutoStore-3.0.7
@@ -27,6 +41,6 @@ A modpack for the WTK playthrough on our cozy world
 - Added Tekla-AutoRepair-5.4.1602
 - Added ValheimModding-HookGenPatcher-0.0.4
 
-### v0.0.1
+### 0.0.1
 
 Initial creation

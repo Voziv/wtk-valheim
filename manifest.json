@@ -1,6 +1,6 @@
 {
   "name": "WTKValheim",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/voziv/wtk-valheim",
   "description": "A valheim modpack for WTK's cozy world",
   "dependencies": [
@@ -19,6 +19,8 @@
     "RandyKnapp-EquipmentAndQuickSlots-2.1.14",
     "reckon-CustomMapDiscovery-1.2.1",
     "Smoothbrain-TargetPortal-1.1.20",
+    "Stollie-DeathTweaks-0.9.3",
+    "TastyChickenLegs-SuperConfigurablePickupRadius-1.0.9",
     "Tekla-AutoRepair-5.4.1602",
     "ValheimModding-HookGenPatcher-0.0.4"
   ]
