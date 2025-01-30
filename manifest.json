@@ -1,6 +1,6 @@
 {
   "name": "WTKValheim",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://github.com/voziv/wtk-valheim",
   "description": "A valheim modpack for WTK's cozy world",
   "dependencies": [
@@ -8,7 +8,7 @@
     "Azumatt-AAA_Crafting-1.6.4",
     "Azumatt-AzuAutoStore-3.0.7",
     "Azumatt-AzuClock-1.0.4",
-    "Azumatt-AzuCraftyBoxes-1.5.8",
+    "Azumatt-AzuCraftyBoxes-1.5.10",
     "Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.6",
     "BasilPanda-NoStamCosts-0.1.2",
     "castix-FloatingItems-1.0.0",
