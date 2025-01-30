@@ -14,7 +14,12 @@ setworldmodifier raids none
 
 ### 1.1.0
 
-- Added EardwulfDoesMods-ComfyMassFarming-1.5.4
+- Added Azumatt-AAA_Crafting-1.6.4
+- Added Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.11
+- Added MainStreetGaming-MassFarming-1.11.0
+- Added MSchmoecker-MultiUserChest-0.6.0
+- Changed carry weight to be 9,850
+- Updated Azumatt-AzuCraftyBoxes-1.5.9
 
 ### 1.0.4
 
