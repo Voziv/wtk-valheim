@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.1
+
+- Removed nbusseneau-Fuel_Daylight_Saving-0.4.0, it's hella anti cozy feelin
+
 ## 1.3.0
 
 - Added nbusseneau-Fuel_Daylight_Saving-0.4.0

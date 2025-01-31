@@ -9,5 +9,3 @@ setworldmodifier resources most
 setworldmodifier portals casual
 setworldmodifier raids none
 ```
-
-## Changelog
