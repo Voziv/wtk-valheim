@@ -12,6 +12,10 @@ setworldmodifier raids none
 
 ## Changelog
 
+### 1.2.0
+
+- Removed Azumatt-AAA_Crafting-1.6.4. The experience wasn't great.
+
 ### 1.1.1
 
 - Updated to Azumatt-AzuCraftyBoxes-1.5.10
