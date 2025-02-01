@@ -1,6 +1,6 @@
 {
   "name": "WTKValheim",
-  "version_number": "1.3.1",
+  "version_number": "1.4.0",
   "website_url": "https://github.com/voziv/wtk-valheim",
   "description": "A valheim modpack for WTK's cozy world",
   "dependencies": [
@@ -19,6 +19,7 @@
     "MagicMike-MyDirtyHoe-1.2.4",
     "MainStreetGaming-MassFarming-1.11.0",
     "MSchmoecker-MultiUserChest-0.6.0",
+    "OdinPlus-QuickTeleport-1.1.0",
     "OdinPlus-TeleportEverything-2.7.0",
     "RandyKnapp-EquipmentAndQuickSlots-2.1.14",
     "reckon-CustomMapDiscovery-1.2.1",
