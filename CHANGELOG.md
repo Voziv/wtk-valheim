@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.1
+
+- Updated mod manifest, forgot on last patch
+
 ## 1.5.0
 
 - Added Azumatt-AzuAreaRepair-1.1.5
