@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.5.0
+
+- Added Azumatt-AzuAreaRepair-1.1.5
+- Updated Jotunn to 2.23.2
+
 ## 1.4.0
 
 - Added OdinPlus-QuickTeleport-1.1.0
