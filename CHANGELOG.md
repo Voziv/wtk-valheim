@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.6.0
+
+- Added Azumatt-AzuExtendedPlayerInventory-1.4.6
+- Added Azumatt-CurrencyPocket-1.0.7
+- Added Azumatt-DeezServerSyncBalls-1.0.5
+- Added Azumatt-LimitWorkstationDiscovery-1.0.2
+- Added Azumatt-PetPantry-1.0.4
+- Added Azumatt-ProfitablePieces-1.0.4
+- Added Azumatt-RepairStation-1.2.4
+- Added Azumatt-Where_You_At-1.0.10
+- Removed RandyKnapp-EquipmentAndQuickSlots-2.1.14
+
 ## 1.5.2
 
 - Updated to Azumatt-AzuCraftyBoxes-1.6.0
