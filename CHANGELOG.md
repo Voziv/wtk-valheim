@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.6.1
+
+- Added RandyKnapp-EquipmentAndQuickSlots-2.1.14
+- Removed Azumatt-CurrencyPocket-1.0.7
+- Removed Azumatt-AzuExtendedPlayerInventory-1.4.6
+
+
 ## 1.6.0
 
 - Added Azumatt-AzuExtendedPlayerInventory-1.4.6
