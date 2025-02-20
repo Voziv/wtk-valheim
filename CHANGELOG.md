@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.3
+
+- Updated Azumatt-AzuCraftyBoxes to 1.6.1
+
 ## 1.6.2
 
 - Updated MSchmoecker-MultiUserChest-0.6.0 to MSchmoecker-MultiUserChest-0.6.1
