@@ -1,6 +1,6 @@
 {
   "name": "WTKValheim",
-  "version_number": "1.6.3",
+  "version_number": "1.6.4",
   "website_url": "https://github.com/voziv/wtk-valheim",
   "description": "A valheim modpack for WTK's cozy world",
   "dependencies": [
@@ -17,7 +17,6 @@
     "Azumatt-RepairStation-1.2.4",
     "Azumatt-Where_You_At-1.0.10",
     "BasilPanda-NoStamCosts-0.1.2",
-    "castix-FloatingItems-1.0.0",
     "denikson-BepInExPack_Valheim-5.4.2202",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.11",
     "JereKuusela-Server_devcommands-1.88.0",
@@ -36,6 +35,7 @@
     "TastyChickenLegs-SuperConfigurablePickupRadius-1.0.9",
     "Tekla-AutoRepair-5.4.1602",
     "ValheimModding-HookGenPatcher-0.0.4",
-    "ValheimModding-Jotunn-2.23.2"
+    "ValheimModding-Jotunn-2.23.2",
+    "VentureValheim-Venture_Floating_Items-0.3.2"
   ]
 }

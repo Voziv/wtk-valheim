@@ -1,7 +1,13 @@
 # Changelog
 
+## 1.6.4
+
+- Updated to ValheimModding-Jotunn-2.24.0
+- Replaced castix-FloatingItems-1.0.0 with VentureValheim-Venture_Floating_Items-0.3.2
+
 ## 1.6.3
 
+- Updated Azumatt-AzuCraftyBoxes to 1.6.1
 - Updated Azumatt-AzuCraftyBoxes to 1.6.1
 
 ## 1.6.2
