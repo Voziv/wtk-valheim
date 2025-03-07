@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.6.5
+
+- Updated to Advize-PlantEverything-1.18.4
+- Updated to Azumatt-AzuCraftyBoxes-1.7.1
+- Updated to Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.12
+- Updated to JereKuusela-Server_devcommands-1.91.0
+- Updated to ValheimModding-Jotunn-2.24.2
+
 ## 1.6.4
 
 - Updated to ValheimModding-Jotunn-2.24.0
