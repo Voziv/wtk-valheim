@@ -1,6 +1,6 @@
 {
   "name": "WTKValheim",
-  "version_number": "1.6.6",
+  "version_number": "1.6.7",
   "website_url": "https://github.com/voziv/wtk-valheim",
   "description": "A valheim modpack for WTK's cozy world",
   "dependencies": [
@@ -18,7 +18,7 @@
     "Azumatt-Where_You_At-1.0.10",
     "BasilPanda-NoStamCosts-0.1.2",
     "denikson-BepInExPack_Valheim-5.4.2202",
-    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.12",
+    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.13",
     "JereKuusela-Server_devcommands-1.91.0",
     "Kits_Bitz-UnderTheRadar-3.1.7",
     "Kojeak-WeightChangeMod-0.0.2",

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.7
+
+- Updated to Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.13
+
 ## 1.6.6
 
 - Updated to Advize-PlantEverything-1.19.0
