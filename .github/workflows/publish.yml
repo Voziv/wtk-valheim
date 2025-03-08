@@ -32,15 +32,13 @@ jobs:
           fi
 
       - name: Zip Directory
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: >-
-            CHANGELOG.md
-            config/
-            icon.png
-            manifest.json
+        run: |
+          zip -r "wtk-valheim-${{ github.event.release.tag_name }}.zip" \
+            CHANGELOG.md \
+            config/ \
+            icon.png \
+            manifest.json \
             README.md
-          dest: wtk-valheim-${{ github.event.release.tag_name }}.zip
 
       - name: 'Upload Artifact'
         uses: actions/upload-artifact@v4
