@@ -71,7 +71,7 @@ jobs:
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
           content: |
-            WTK Valheim v${{ github.event.release.tag_name }} was just published to ${{ steps.publish.outputs.url }}
+            WTK Valheim v${{ github.event.release.tag_name }} was just published! It may take a little bit to show up in your mod manager.
 
             ```
             ${{ github.event.release.body }}
