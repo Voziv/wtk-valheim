@@ -1,0 +1,78 @@
+name: Publish
+
+on:
+  release:
+    types: [ released ]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.release.tag_name }}
+          fetch-depth: 0
+          filter: tree:0
+
+      - name: Read manifest
+        id: manifest
+        run: |
+          echo 'manifestJson<<EOF' >> $GITHUB_OUTPUT
+          cat ./manifest.json >> $GITHUB_OUTPUT
+          echo 'EOF' >> $GITHUB_OUTPUT
+
+      - name: Verify manifest
+        run: |
+          echo "Github release: '${{ github.event.release.tag_name }}'"
+          echo "Manifest version: '${{ fromJson(steps.manifest.outputs.manifestJson).version_number }}'"
+
+          if [[ "${{ github.event.release.tag_name }}" != "${{ fromJson(steps.manifest.outputs.manifestJson).version_number }}" ]]; then
+            echo "Github tag '${{ github.event.release.tag_name }}' does not match manifest version '${{ fromJson(steps.manifest.outputs.manifestJson).version_number }}'"
+            exit 1
+          fi
+
+      - name: Zip Directory
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: >-
+            CHANGELOG.md
+            config/
+            icon.png
+            manifest.json
+            README.md
+          dest: wtk-valheim-${{ github.event.release.tag_name }}.zip
+
+      - name: 'Upload Artifact'
+        uses: actions/upload-artifact@v4
+        with:
+          name: modpack
+          path: wtk-valheim-${{ github.event.release.tag_name }}.zip
+          retention-days: 7
+
+      - name: "Upload to Thunderstore"
+        uses: GreenTF/upload-thunderstore-package@v4.3
+        id: publish
+        with:
+          file: ./wtk-valheim-${{ github.event.release.tag_name }}.zip
+          name: ${{ fromJson(steps.manifest.outputs.manifestJson).name }}
+          namespace: wtkhouse
+          token: ${{ secrets.THUNDERSTORE_TOKEN }}
+          repo: valheim.thunderstore.io
+          version: ${{ fromJson(steps.manifest.outputs.manifestJson).version_number }}
+          community: valheim
+          categories: |
+            modpacks
+
+      - name: Output URL
+        run: echo "Published Thunderstore package to ${{ steps.publish.outputs.url }}"
+
+      - name: Post to discord
+        uses: tsickert/discord-webhook@v7.0.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          content: |
+            WTK Valheim v${{ github.event.release.tag_name }} was just published to ${{ steps.publish.outputs.url }}
+
+            ```
+            ${{ github.event.release.body }}
+            ```

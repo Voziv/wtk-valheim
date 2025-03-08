@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.6.6
+
+- Updated to Advize-PlantEverything-1.19.0
+- Updated to Kits_Bitz-UnderTheRadar-3.1.7
+- Updated to Smoothbrain-TargetPortal-1.1.21
+
 ## 1.6.5
 
 - Updated to Advize-PlantEverything-1.18.4
