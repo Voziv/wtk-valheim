@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.9
+
+- Updated to OdinPlus-TeleportEverything-2.8.0
+- Updated to JereKuusela-Server_devcommands-1.92.0
+
 ## 1.6.8
 
 - Fixes zip structure so that config is no longer mangled.
