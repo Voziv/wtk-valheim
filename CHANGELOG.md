@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.6.10
+
+- Removed DeathTweaks
+- Installed Azumatt-HelheimHarmonizer-1.0.9
+- Updated to Azumatt-AzuCraftyBoxes-1.7.2
+
 ## 1.6.9
 
 - Updated to OdinPlus-TeleportEverything-2.8.0

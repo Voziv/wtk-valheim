@@ -1,6 +1,6 @@
 {
   "name": "WTKValheim",
-  "version_number": "1.6.9",
+  "version_number": "1.6.10",
   "website_url": "https://github.com/voziv/wtk-valheim",
   "description": "A valheim modpack for WTK's cozy world",
   "dependencies": [
@@ -8,9 +8,10 @@
     "Azumatt-AzuAreaRepair-1.1.5",
     "Azumatt-AzuAutoStore-3.0.7",
     "Azumatt-AzuClock-1.0.4",
-    "Azumatt-AzuCraftyBoxes-1.7.1",
+    "Azumatt-AzuCraftyBoxes-1.7.2",
     "Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.6",
     "Azumatt-DeezServerSyncBalls-1.0.5",
+    "Azumatt-HelheimHarmonizer-1.0.9",
     "Azumatt-LimitWorkstationDiscovery-1.0.2",
     "Azumatt-PetPantry-1.0.4",
     "Azumatt-ProfitablePieces-1.0.4",
@@ -30,7 +31,6 @@
     "RandyKnapp-EquipmentAndQuickSlots-2.1.14",
     "reckon-CustomMapDiscovery-1.2.1",
     "Smoothbrain-TargetPortal-1.1.21",
-    "Stollie-DeathTweaks-0.9.3",
     "TastyChickenLegs-BlastFurnaceTakesAll-1.0.9",
     "TastyChickenLegs-SuperConfigurablePickupRadius-1.0.9",
     "Tekla-AutoRepair-5.4.1602",
