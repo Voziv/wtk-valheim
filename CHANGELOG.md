@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.6.11
+
+- Updated to Azumatt-AzuAreaRepair-1.1.6
+- Updated to Azumatt-AzuClock-1.0.5
+- Updated to Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.7
+- Updated to Azumatt-DeezServerSyncBalls-1.0.6
+- Updated to Azumatt-LimitWorkstationDiscovery-1.0.3
+- Updated to Azumatt-PetPantry-1.0.5
+- Updated to Azumatt-ProfitablePieces-1.0.5
+- Updated to Azumatt-RepairStation-1.2.5
+- Updated to Azumatt-Where_You_At-1.0.11
+- Updated to ValheimModding-Jotunn-2.24.3
+
 ## 1.6.10
 
 - Removed DeathTweaks
