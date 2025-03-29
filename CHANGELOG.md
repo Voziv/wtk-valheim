@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.6.12
+
+- Updated to Azumatt-AzuAutoStore-3.0.8
+- Updated to JereKuusela-Server_devcommands-1.93.0
+- Updated to OdinPlus-TeleportEverything-2.9.0
+
 ## 1.6.11
 
 - Updated to Azumatt-AzuAreaRepair-1.1.6
